@@ -46,7 +46,10 @@ The Tournament starts out with a conventional 1v1 on a tiny map, but the winner 
 ### Ered Engrin 
 Third Place among 138 participants, topic: Discovery
 
+An atmospheric maze runner game about a mysterious ice cave.
+
 Mysterious monster and xray shader coding, general unity coding and game design.
+
 Can be played by downloading the .zip and starting the EredEngrin.exe in the folder, or use the EredEngrin folder directly if the full repo is already downloaded. 
 
 The full repository with code is found at:
@@ -58,7 +61,7 @@ The full repository with code is found at:
 ### Flappybird 2.0
 Glitch style shader coding, general unity coding like an eternally vertically looping world and game design.
 
-Honorable mentions by the jury and an article in a newspaper
+Honorable mentions by the jury and an article in a newspaper (in german)
 ![Some screenshots](Newspaper.jpeg)
 
 Trailer: https://www.youtube.com/watch?v=cWZ3SMBPXlU
