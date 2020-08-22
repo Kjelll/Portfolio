@@ -1,39 +1,34 @@
-# Portfolio
-Unity projects, links to my shadertoy profile, and what else I can think of putting here.
-
-## Age of Empires Game Design:
- Some game design document examples featuring some small and large scale example ideas for Age of Empires 2 are listed [here](/Documentation/AoE.md)
+ 
+# Age of Empires Game Design: 
 Of course proper GDDs would be a collaboration of several game designers and updated over the iterations by a whole development team, but this would be a first draft to start from, add and improve upon. 
-
-
-
-### Small ideas
+ 
+## Small ideas
 Probably implementable by a single dev, but hopefully still with a noticeable positive impact on gameplay.
 
-#### Sum carried resources for selected groups 
+### Sum carried resources for selected groups 
 Making a group of villagers show the sum of the resources they carry instead just showing nothing. 
 
 Desired impact: Players no longer need to individually cycle through their villagers when they need to reach a specific amount of food asap (Villager, Feudal research, Castle research). 
 
 Impacted gameplay: Eco in Dark age, minimally in feudal age 
 
-#### Making global queue items cancellable
+### Making global queue items cancellable
 Right clicking on something in the global unit queue directly cancels it, instead of requiring players to left click it (at the top left) and then cancel it (in the bottom middle).
 
 Desired impact: Misclicking militia while shift spamming halbs doesnt force the player to cycle through his barracks to cancel each individually
 
 Impacted gameplay: Military Imp/Post Imp
 
-#### Cavalry charge sound effect when a big group of cavalry attack moves towards a big group of enemies
+### Cavalry charge sound effect when a big group of cavalry attack moves towards a big group of enemies
 Similar to the charge sound effect in AoM, but more sparsely triggered and only some slight horse gallop sound to not disturb important sound clues.
 Desired impact: Give the player a feeling of power while commanding a group of knights, without disturbing the rest of their gameplay experience
 
 Impacted gameplay: No game mechanics changed, audio experience only 
 
-### Big ideas
+## Big ideas
 Ideas that would require proper project setup and management and could also change too much and break with some of the traditional aoe2 game feel
 
-## Continuous Map tournament: 
+### Continuous Map tournament: 
 This is a pretty outlandish idea and more an example of what breaks if you disrupt the existing systems with a big change
 The Tournament starts out with a conventional 1v1 on a tiny map, but the winner is not just matched against another winner, their final state of the map is also saved and combined into a rectangular new meta map, where many  
 
