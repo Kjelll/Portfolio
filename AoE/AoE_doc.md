@@ -8,19 +8,27 @@ Probably implementable by a single dev, but aimed to still have a noticeable pos
 ### Sum carried resources for selected villagers
 Making a group of villagers show the sum of the resources they carry instead just showing nothing.  
 
-<img src="/AoE/SumRes/Problem_statement.jpg" alt="Problem_statement" width="600"/> 
+Here is a quick example case:
+<img src="/AoE/SumRes/Problem_statement.jpg" alt="Problem_statement" width="500"/> 
 
 
 
-Desired impact: Players no longer need to individually cycle through their villagers when they need to reach a specific amount of food asap (Villager, Feudal research, Castle research). 
+Desired impact:Players no longer need to individually cycle through their villagers when they need to reach a specific amount of food asap (Villager, Feudal research, Castle research). 
 
-Impacted gameplay: Eco in Dark age, minimally in feudal age 
+Here would be a possible solution.
+<img src="/AoE/SumRes/Possible_solution.jpg" alt="possible_solution" width="450"/> 
+
+Issues: Vills carrying different resources, either all carried resources are listed next to each other, conflicts can be solved by only showing the highest resource, or none at all.
+
+Impacted gameplay:  Quality of Life change, Eco in Dark age, minimally in Feudal age 
 
 ### Making global queue items cancellable
 Right clicking on something in the global unit queue directly cancels it, instead of requiring players to left click it (at the top left) and then cancel it (in the bottom middle).
 
 Desired impact: Misclicking militia while shift spamming halbs doesnt force the player to slowly cycle through his barracks to cancel each individually
 
+Issues: Research should likely be excluded to avoid game losing misclicks (cancelling Imp or Paladin)
+<img src="/AoE/SumRes/Issue.jpg" alt="Issue" width="100"/> 
 Impacted gameplay: Military Imp/Post Imp
 
 ### Cavalry charge sound effect when a big group of cavalry attack moves towards a big group of enemies

@@ -20,17 +20,19 @@ Can be played by downloading the .zip and starting the EredEngrin.exe in the fol
 The full repository with code is found at:
 
  https://github.com/Wacken/Cooles-Guldr-ber-Spiel
-![Some screenshots](EredEngrin/EredEngrin4.jpg)
+<img src="EredEngrin/EredEngrin4.jpg" alt="Ered Engrin" width="400"/>  
 
 
 ### Flappybird 2.0
 Glitch style shader coding, general unity coding like an eternally vertically looping world and game design.
 
-Honorable mentions by the jury and an article in a newspaper (in german)
-![Some screenshots]()
-<img src="Newspaper.jpeg" alt="Newspaper" width="400"/> 
+Honorable mentions by the jury and an article in a newspaper (in german) 
+<img src="Newspaper.jpeg" alt="Newspaper" width="300"/> 
 
 Trailer: https://www.youtube.com/watch?v=cWZ3SMBPXlU
+
+On itch.io:
+
  https://shytea.itch.io/flappybird2
 
 ### Alien Dating Simulator
