@@ -6,8 +6,11 @@ Of course proper GDDs would be a collaboration of several game designers and upd
 Probably implementable by a single dev, but aimed to still have a noticeable positive impact on gameplay.
 
 ### Sum carried resources for selected villagers
-Making a group of villagers show the sum of the resources they carry instead just showing nothing. 
-![Some screenshots](/AoE/SumRes/Problem_statement.jpg)
+Making a group of villagers show the sum of the resources they carry instead just showing nothing.  
+
+<img src="/AoE/SumRes/Problem_statement.jpg" alt="Problem_statement" width="600"/> 
+
+
 
 Desired impact: Players no longer need to individually cycle through their villagers when they need to reach a specific amount of food asap (Villager, Feudal research, Castle research). 
 

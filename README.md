@@ -27,7 +27,8 @@ The full repository with code is found at:
 Glitch style shader coding, general unity coding like an eternally vertically looping world and game design.
 
 Honorable mentions by the jury and an article in a newspaper (in german)
-![Some screenshots](Newspaper.jpeg)
+![Some screenshots]()
+<img src="Newspaper.jpeg" alt="Newspaper" width="400"/> 
 
 Trailer: https://www.youtube.com/watch?v=cWZ3SMBPXlU
  https://shytea.itch.io/flappybird2
