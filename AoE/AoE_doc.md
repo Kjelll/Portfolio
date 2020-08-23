@@ -184,11 +184,17 @@ Cost suggestion: 100 wood 20 gold, higher cost than a house and at minimum a sma
 <img src="/AoE/espringal.png" alt="Espringal" width="300"/> 
 
 
-A ballista shooting siege unit that assembles like a trebuchet, "Springald" was a medieval version that could be used by a european civ.
+A ballista shooting siege unit that assembles like a trebuchet, "Springald" was a medieval version of the roman scorpion that could be used by a european civ.
  
-This ["springald catapult" version](https://www.youtube.com/watch?v=vIinZrWERUE) even looks like a trebuchet for bolts.
+This ["springald catapult"](https://www.youtube.com/watch?v=vIinZrWERUE) version even looks like a trebuchet for bolts.
 
 <img src="/AoE/espringal2.png" alt="Espringal 2" width="300"/> 
+
+- higher range than scorpions
+
+- good in defense 
+
+- could also deal more bonus damage to buildings than scorpion bolts
 
 It could also feature a less than 360 degree shooting angle after setting up, if that provides interesting gameplay, but that would require a lot more design work. 
 
