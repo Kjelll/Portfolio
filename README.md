@@ -51,15 +51,19 @@ Alien Dating Simulator
 Honorable mentions by jury 
 
 Procedural generation of 2D aliens, creating all of the UI necessary for the dating sim, game design. 
-The first part of the game about a dating app with procedural alien and name generation was designed and programmed by [Feli](https://twitter.com/Niodith) and me, with great art made by [Kris](https://twitter.com/kris_weinand).
+The first part of the game about a dating app with procedural aliens designed and programmed by [Feli](https://twitter.com/Niodith), Leo and me, with great art made by [Kris](https://twitter.com/kris_weinand).
 
 The second part, travelling to the date as a 2D spaceship minigame was made by two other games engineer students.
 
+<img src="Galactinder/Galactinder4.png" alt="Galactinder" width="400"/>  
+
+The name generation I hacked together is a great example of how a little can achieve a lot.
+
+<img src="Galactinder/Galactinder2.png" alt="Galactinder" width="400"/>  
 
 Can be played by downloading [Galactinder.zip](/Galactinder.zip) and starting the AltGalactinderBuild.exe in the folder. 
 
  
-<img src="Galactinder/Galactinder4.png" alt="Galactinder" width="400"/>  
 
 
 ### Brainfuck Planet
