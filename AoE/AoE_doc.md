@@ -91,15 +91,15 @@ They were active throughout the middle ages and dealt with Byzantines, Franks, S
 
 #### Facts that can inspire mechanics:
 
--stole relics (repeatedly)
+- stole relics (repeatedly)
 
--wealth through trade
+- wealth through trade
 
--had slaves (too many for the church at least)
+- had slaves (and went to war with the church over it)
 
--got a cut of the plunder of constantinople (and stole some more relics, maybe their unique unit should be able to carry relics)
+- got a cut of the plunder of constantinople (and stole some more relics, maybe their unique unit should be able to carry relics)
 
--Marco Polo (exploration bonus, maybe line of sight on ships as civ bonus)
+- Marco Polo (exploration bonus, maybe line of sight on ships as civ bonus)
 
 
 #### Boni
@@ -111,34 +111,34 @@ Civ bonus: Players trading with a Venetian market also grant Venice a (small) po
 
 #### Unique Tech Inspirations:
 
--Devotion of Verona could be a unique tech, Istrian and Dalmation cities swearing allegiance to Venice happened again in 1000   https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice 
+- Devotion of Verona could be a unique tech, Istrian and Dalmation cities swearing allegiance to Venice happened again in 1000   https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice 
 
--Marriage of the Sea could be another unique tech (for some maritime bonus, if possible something relating to "the sea may be calm and quiet")
+- Marriage of the Sea could be another unique tech (for some maritime bonus, if possible something relating to "the sea may be calm and quiet")
 
 
 #### Military:
 
 -Strong naval presence, they basically won their empire on water, then lost it on land. Should have a strong ship bonus.
 
--Crusaders in the fourth crusade were transported by Venice, in return they sieged Zara and later Constantinople. So they should have a decent knight line, at least cavalier, even though only some of the knights sieging Constantinople were Venetian.
+- Crusaders in the fourth crusade were transported by Venice, in return they sieged Zara and later Constantinople. So they should have a decent knight line, at least cavalier, even though only some of the knights sieging Constantinople were Venetian.
 
 Not much else on land until the 15. century, where they only had condotierrri armies on land.
 
--Since their only significant land armies seem to have been condottieri, so they should get condotierri like the existing Italians and potentially stradioti as their unique land unit
+- Since their only significant land armies seem to have been condottieri, so they should get condotierri like the existing Italians and potentially stradioti as their unique land unit
 
--the most impressive fact about their land army is how they managed to lose almost every land battle but still survive through their politics and money. That is hard to recreate in AoE though.
+- the most impressive fact about their land army is how they managed to lose almost every land battle but still survive through their politics and money. That is hard to recreate in AoE though.
 
 
 
 #### Unique Units
 
--Stradioti, light cavalry mercenaries (1400-1800), represented as a fast cavalry unit (some mix between hussar and paladin) that costs only gold. Their imperial upgrade also allows them to carry relics. https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy)
+- Stradioti, light cavalry mercenaries (1400-1800), represented as a fast cavalry unit (some mix between hussar and paladin) that costs only gold. Their imperial upgrade also allows them to carry relics. https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy)
 
 Some more venetian unit could come from in depth research of venice land battles, since Stradioti were not from Venice and not exclusively used by Venice, the UU choice is far from perfect.
 
--Condotierri, not "unique" since the main Italians already have them but clearly should be in the venetian arsenal.
+- Condotierri, not "unique" since the main Italians already have them but clearly should be in the venetian arsenal.
 
--Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
+- Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
 
 
 
