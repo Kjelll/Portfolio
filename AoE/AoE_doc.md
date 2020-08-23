@@ -2,6 +2,11 @@
 # Age of Empires Game Design: 
 Of course proper GDDs would be a collaboration of several game designers and updated over the iterations by a whole development team, but this would be a first draft to start from, add and improve upon. 
  
+## UI Wireframe 
+As an exercise I created a quick wireframe sketch of the main in game UI.
+
+<img src="/AoE/Aoe2Wireframe.png" alt="UI Wireframe" width="600"/> 
+
 ## Small tweaks
 Changes implementable in a reasonably short time, but aimed to still have a noticeable positive impact on gameplay.
 
@@ -42,9 +47,20 @@ Impacted gameplay: Audiovisual
  
 
 ## Civ additions
-Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented. 
+Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented, or have some overlap with an already implemented one. 
 
-I specifically did game design for a Venice Civ, the others are just history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
+I specifically did game design examples for Venice at the bottom, the others are just about history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
+
+
+
+### West Francia (after fall of the Franks, time of viking warrior Rollo)
+- Kingdom of France
+
+- Normany/Normans
+
+- Burgundy
+
+- potentially some group out of the germanic stew of dukes and kingdoms, Bavaria, Bohemia, old swiss confederacy, Saxons, Flanders/Flemish, etc.
 
 
 ### Nordic Migration
@@ -141,13 +157,39 @@ Some more venetian unit could come from in depth research of venice land battles
 - Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
 
 
+### Unused Ideas
 
-### West Francia (after fall of the Franks, time of viking warrior Rollo)
-- Kingdom of France
+#### Healing Tent/Field Hospital
+Best on a civ that was famous for its medicine in some way. 
 
-- Normany/Normans
+Healing building/field hospital/"Lazarett". Like a hut/tent with 5-10 garrison space and 6-10x healing speed (Like herbal medicine), could also stack with herbal medicine, (additive to 12x, not multiplicative)
 
-- Burgundy
+Should be able to garrison cavalry, like castles, since healing other units is barely used by top players.
 
-- potentially some group out of the germanic stew of dukes and kingdoms, Bavaria, Swabia, old swiss confederacy, Saxons, Flanders/Flemish, etc.
+Should probably only be unlocked in castle age, since healing mass scouts or MAA could be too strong in feudal rushes.
+
+Should be quick to destroy, as it provides easy cover for any army and while the enemy is destroying the building, the army hiding inside it can heal back up. So it should be visually displayed as a tent, with about the durability of a palisade wall.
+
+Would need a civ that has some high hitpoint unit as one of its go to strats, elephants or knights at least.
+ 
+
+Consequences: could benefit tower rushes (if available in feudal) and other strategies involving forward buildings, could make a strong monkless knight siege push
+
+Cost suggestion: 100 wood 20 gold, higher cost than a house and at minimum a small gold cost so it doesnt get too spammed if a lategame player has 5k wood
+
+
+#### Unique siege weapon:
+
+<img src="/AoE/espringal.png" alt="Espringal" width="300"/> 
+
+
+A ballista shooting siege unit that assembles like a trebuchet, "Springald" was a medieval version that could be used by a european civ.
+ 
+This ["springald catapult" version](https://www.youtube.com/watch?v=vIinZrWERUE) even looks like a trebuchet for bolts.
+
+<img src="/AoE/espringal2.png" alt="Espringal 2" width="500"/> 
+
+It could also feature a less than 360 degree shooting angle after setting up, if that provides interesting gameplay, but that would require a lot more design work. 
+
+Since it is mentioned in De Re Militari, most fitting to Byzantium and other civs inheriting Roman military technology, like the Italians, Venice or Franks. https://en.wikipedia.org/wiki/De_re_militari
 
