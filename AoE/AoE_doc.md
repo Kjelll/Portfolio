@@ -189,13 +189,9 @@ This ["springald catapult"](https://www.youtube.com/watch?v=vIinZrWERUE) version
 
 <img src="/AoE/espringal2.png" alt="Espringal 2" width="300"/> 
 
-- higher range than scorpions
+Bad mobility as a tradeoff with higher range and more bonus damage to buildings than scorpion.
 
-- good in defense 
-
-- could also deal more bonus damage to buildings than scorpion bolts
-
-It could also feature a less than 360 degree shooting angle after setting up, if that provides interesting gameplay, but that would require a lot more design work. 
+Could also feature a less than 360 degree shooting angle after setting up, if that provides interesting gameplay, but that would require a lot more design work. 
 
 Since it is mentioned in De Re Militari, most fitting to Byzantium and other civs inheriting Roman military technology, like the Italians, Venice or Franks. https://en.wikipedia.org/wiki/De_re_militari
 
