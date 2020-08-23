@@ -40,7 +40,7 @@ Honorable mentions by the jury and an article in a newspaper (in german)
 
 Trailer: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cWZ3SMBPXlU?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Flappybird 2.0 thumnail](FlappyThumbnail.jpg)](https://www.youtube.com/watch?v=cWZ3SMBPXlU)
 
 On itch.io:
 
