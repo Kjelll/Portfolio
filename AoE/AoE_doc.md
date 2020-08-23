@@ -49,7 +49,7 @@ Impacted gameplay: Audiovisual
 ## Civ additions
 Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented, or have some overlap with an already implemented one. 
 
-I specifically did game design examples for Venice at the bottom, the others are just about history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
+I specifically did game design examples for Venice at the bottom, the others are just civ choices based on history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
 
 
 
@@ -65,7 +65,7 @@ I specifically did game design examples for Venice at the bottom, the others are
 
 ### Nordic Migration
 A possible expansion theme would be the vikings who left Scandinavia and became distinct groups with their own history and culture. 
-Already kind of implemented in the Vikings civ, but since they were not one homogenous culture we can differentiate the existing Vikings civ as those who only raided and did not settle outside of Scandinavia.
+Already kind of implemented in the Vikings civ, but since they were not one homogenous culture we can differentiate the existing Vikings civ from those who settled outside of Scandinavia.
 
 
 #### Normans
@@ -120,6 +120,7 @@ They were active throughout the middle ages and dealt with Byzantines, Franks, S
 
 #### Boni
 Team bonus: +2 line of sight on ships 
+
 Civ bonus: Relics also grant wood (as a bonus to their navy aswell)
 
 Civ bonus: Players trading with a Venetian market also grant Venice a (small) portion of their earnings
@@ -127,9 +128,9 @@ Civ bonus: Players trading with a Venetian market also grant Venice a (small) po
 
 #### Unique Tech Inspirations:
 
-- Devotion of Verona could be a unique tech, Istrian and Dalmation cities swearing allegiance to Venice happened again in 1000   https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice 
+- [Devotion of Verona](https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice) should grant some buff regarding settlements/town centers. Istrian and Dalmation cities also swore allegiance to Venice again in 1000    
 
-- Marriage of the Sea (for some maritime bonus, if possible something relating to "the sea may be calm and quiet") https://en.wikipedia.org/wiki/Marriage_of_the_Sea_ceremony
+- [Marriage of the Sea](https://en.wikipedia.org/wiki/Marriage_of_the_Sea_ceremony) for some maritime bonus, if possible something relating to "the sea may be calm and quiet"
 
 
 #### Military:
@@ -138,9 +139,9 @@ Civ bonus: Players trading with a Venetian market also grant Venice a (small) po
 
 - Crusaders in the fourth crusade were transported by Venice, in return they sieged Zara and later Constantinople. So they should have a decent knight line, at least cavalier, even though only some of the knights sieging Constantinople were Venetian.
 
-Not much else on land until the 15. century, where they only had condotierrri armies on land.
+Not much else on land until the 15. century, where they had mostly condotierrri armies on land.
 
-- Since their only significant land armies seem to have been condottieri, so they should get condotierri like the existing Italians and potentially stradioti as their unique land unit
+- Since their only significant land armies seem to have been condottieri, they should get condotierri like the existing Italians and they also used more specifically [Stradioti](https://en.wikipedia.org/wiki/Military_history_of_the_Republic_of_Venice#XV_century&:~:text=Stradioti), cavalry mercenaries from albania/macedonia, wikipedia about them [here](https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy))
 
 - the most impressive fact about their land army is how they managed to lose almost every land battle but still survive through their politics and money. That is hard to recreate in AoE though.
 
@@ -148,19 +149,19 @@ Not much else on land until the 15. century, where they only had condotierrri ar
 
 #### Unique Units
 
-- Stradioti, light cavalry mercenaries (1400-1800), represented as a fast cavalry unit (some mix between hussar and paladin) that costs only gold. Their imperial upgrade also allows them to carry relics. https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy)
+- [Stradioti](https://en.wikipedia.org/wiki/Military_history_of_the_Republic_of_Venice#XV_century&:~:text=Stradioti), light cavalry mercenaries (1400-1800), represented as a fast cavalry unit (some mix between hussar and paladin) that costs only gold. Their imperial upgrade also allows them to carry relics. 
 
 Some more venetian unit could come from in depth research of venice land battles, since Stradioti were not from Venice and not exclusively used by Venice, the UU choice is far from perfect.
 
 - Condotierri, not "unique" since the main Italians already have them but clearly should be in the venetian arsenal.
 
-- Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
+- [Bucentaur](https://en.wikipedia.org/wiki/Bucentaur), a strong "boss battle" unique ship similar to the turtle ship.  
 
 
 ### Unused Ideas
 
 #### Healing Tent/Field Hospital
-Best on a civ that was famous for its medicine in some way. 
+Best on a civ that was famous for its medicine in some way, like Teutons (who got Herbal Medicine because of it). 
 
 Healing building/field hospital/"Lazarett". Like a hut/tent with 5-10 garrison space and 6-10x healing speed (Like herbal medicine), could also stack with herbal medicine, (additive to 12x, not multiplicative)
 
