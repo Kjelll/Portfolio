@@ -20,16 +20,19 @@ Mysterious monster and xray shader coding, general unity coding and game design.
 
 Can be played by downloading the .zip and starting the EredEngrin.exe in the folder, or use the EredEngrin folder directly if the full repo is already downloaded. 
 
-The full repository with code is found at:
-
- https://github.com/Wacken/Cooles-Guldr-ber-Spiel
+ 
 <img src="EredEngrin/EredEngrin4.jpg" alt="Ered Engrin" width="400"/>  
 
+The full repository with code is found at:
+ https://github.com/Wacken/Cooles-Guldr-ber-Spiel
 
 ### Flappybird 2.0
-Glitch style shader coding, general unity coding like an eternally vertically looping world and game design.
+Glitch style shader coding, general unity coding, like an eternally vertically looping world, and game design.
+
+<img src="FlappyBirdShader.png" alt="Flappy Bird Glitch World Shader" width="300"/> 
 
 Honorable mentions by the jury and an article in a newspaper (in german) 
+
 <img src="Newspaper.jpeg" alt="Newspaper" width="300"/> 
 
 Trailer: https://www.youtube.com/watch?v=cWZ3SMBPXlU
