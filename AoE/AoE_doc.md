@@ -3,7 +3,7 @@
 Of course proper GDDs would be a collaboration of several game designers and updated over the iterations by a whole development team, but this would be a first draft to start from, add and improve upon. 
  
 ## Small tweaks
-Changes implementable by a single dev, but aimed to still have a noticeable positive impact on gameplay.
+Changes implementable in a reasonably short time, but aimed to still have a noticeable positive impact on gameplay.
 
 ### Show resource total for villager groups
 Making a group of villagers show the sum of the resources they carry instead just showing nothing.  
@@ -47,33 +47,113 @@ Ideas that would add to instead of change the existing game.
 ### Civ additions
 Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented. 
 
+I specifically did game design for a Venice Civ, the others are just history.
+
+
 #### Nordic Migration
-A possible expansion theme would be the vikings who left Scandinavia and became distinct groups with their own history and culture. Already kind of implemented in the Vikings civ, but since they were not one homogenous culture we can differentiate the existing Vikings civ as those who only raided and did not settle outside of Scandinavia.
+A possible expansion theme would be the vikings who left Scandinavia and became distinct groups with their own history and culture. 
+Already kind of implemented in the Vikings civ, but since they were not one homogenous culture we can differentiate the existing Vikings civ as those who only raided and did not settle outside of Scandinavia.
 
 
 ##### Normans
 French, christian vikings, mostly from denmark, who were part of the Kingdom of France for some time, but also invaded Spain, Britain,  and northern Italy (Byzantium at the time).
-Well known in modern culture
+
+Well known in modern culture due to their impact on the history of France, England and the rest of Europe.
+
 ##### Lombards
-Vikings who made it through the middle of europe down to northern Italy and raided and ruled there
+Southern Scandinavians (or potentially only northern germanic) who made it through the middle of europe down to northern Italy after the Gothic Wars had depopulated it and raided and ruled there
+Lost northern Italy to the franks 774 and southern Italy to the Normans in the 11th century. Name originates either from their long beards or their Odin-worship
 Less well known than the Normans, but we already have a map named after their empire so AoE players usually have at least heard of it.
+
 ##### Varangians/Rus'
 Viking merchants, mercenaries, pirates and settlers who lived above the black sea and along the volga. Ruled Eastern Europe/Russia as the Kievan Rus' before the Mongol/Tatar invasion
-Varangian Guard is famous as the elite Byzantian army mercenaries and bodyguard for the Byzantine emperor.
+
+Varangian Guard is famous as the elite Byzantian army mercenaries and bodyguard for the Byzantine emperor. This would already be an easy Unique Unit choice, they should then also be unconvertible, since they were known for their loyalty.
 
 ##### Icelandic
-If a fourth civ is desired in line with previous expansions, something from the Iceland/Greenland/Norway vikings could be chosen, but would likely be less known in pop culture than the others.
-But as we can see in this image around 900 AD, there seems to have been a northwestern language/culture distinct from the others.
-<img src="/AoE/Old_norse,_ca_900.png" alt="Old Norse" width="500"/> 
+If a fourth civ is desired in line with previous expansions, something from the Iceland/Greenland/Norway vikings could be chosen.
+
+They would likely be less known in pop culture than the others, but as we can see in this image around 900 AD, there seems to have been a northwestern language/culture distinct from the others. And there would be plenty of icelandic sagas to use for inspirations.
+
+<img src="/AoE/Old_norse,_ca_900.png" alt="Old Norse" width="400"/> 
 https://en.wikipedia.org/wiki/File:Old_norse,_ca_900.PNG
+
+#### Geographical alternative
+If we want the civs to have met in the same region in a relevant manner, we have Northern Italy for the Normans, Lombards and Varangians (as part of the byzantine empire). 
+
+If we want a fourth civ in the area, Venice could be a (non-viking) choice.
+
+#### Republic of Venice
+Most likely founded by people fleeing the germanic and hun invasion and raids, part of the Byzantine Empire, but defending themselves against the Lombards as the Duchy of Venetia.
+
+Gained power through trade, politics and maritime warfare almost exclusively.
+
+They have some overlap with italians, especially with the silk road trading bonus, but Pisa, Genoa and everyone other actor in the "The Ambrosian Republic" campaign is still Italian.
+
+They were active throughout the middle ages and dealt with Byzantines, Franks, Slavs, Saracens, Lombards, Arabs, Normans, Genovese, Ottomans and more, therefore their place in Age of Empires 2 would be well deserved
+
+##### For inspirations in the design of the civ I have compiled a list:
+
+-stole relics (repeatedly)
+
+-wealth through trade
+
+-had slaves (too many for the church at least)
+
+-got a cut of the plunder of constantinople (and stole some more relics, maybe their unique unit should be able to carry relics)
+
+-Marco Polo (exploration bonus, maybe line of sight on ships as civ bonus)
+
+##### Unique Techs:
+
+-Devotion of Verona could be a unique tech, Istrian and Dalmation cities swearing allegiance to Venice happened again in 1000   https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice 
+
+-Marriage of the Sea could be another unique tech (for some maritime bonus, if possible something relating to "the sea may be calm and quiet")
+
+
+##### Military:
+
+-Strong naval presence, they basically won their empire on water, then lost it on land. Should have a strong ship bonus.
+
+-Crusaders in the fourth crusade were transported by Venice, in return they sieged Zara and later Constantinople. So they should have a decent knight line, at least cavalier, even though only some of the knights sieging Constantinople were Venetian.
+
+Not much else on land until the 15. century, where they only had condotierrri armies on land.
+
+-Since their only significant land armies seem to have been condottieri, so they should get condotierri like the existing Italians and potentially stradioti as their unique land unit
+
+-the most impressive fact about their land army is how they managed to lose almost every land battle but still survive through their politics and money. That is hard to recreate in AoE though.
+
+
+
+##### Unique Units
+
+Stradioti, light cavalry mercenaries (1400-1800), represented as a fast cavalry unit that only costs gold. Their imperial upgrade allows them to carry relics. https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy)
+
+Some more venetian unit could come from in depth research of venice land battles, since Stradioti were not from Venice and not exclusively used by Venice, the UU choice is far from perfect.
+
+Condotierri, not "unique" since the main Italians already have them but clearly should be in the venetian arsenal.
+
+Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
+
+
+
+
+
+
+
+
 
 
 ### Limited replay rewind
 Since real rewinding  in the replay system/engine is technically too demanding to implement (or impossible), the save state system could be utilized to allow for rewinds save points, if the required memory isnt too great.
 So for example each 1, 5 or 10 minutes, the replay creates a backup state like the save and quit backup to restore a lobby match with a disconnect, which the viewer can then revert back to if he wishes to do so.
+
 To better gauge feasibility here is an overview of the required features:
+
 -The replay system needs to initialise at a save state
+
 -Save states must be made from replays
+
 -Replay saves should be made in the background if possible, if a pause and saving animation is necessary, backups every 5, 10, or even more minutes can still be acceptable
 
 
