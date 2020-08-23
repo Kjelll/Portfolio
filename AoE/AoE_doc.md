@@ -7,6 +7,13 @@ As an exercise I created a quick wireframe sketch of the main in game UI.
 
 <img src="/AoE/Aoe2Wireframe.png" alt="UI Wireframe" width="800"/> 
 
+
+## Ornamental Buildings
+A concept for buildings that serve no gameplay relevant purpose. Allowing players to showcase rewards they earned to others would decisively lift them above the developer-created visual mods that event rewards represent right now.
+Introducing the motivatonal social/community aspects of cosmetics that so many games use as their solefor financial income could greatly benefit the retention gained from the frequent event challenges taking place in AoE 2 DE.
+
+
+
 ## Small tweaks
 Changes implementable in a reasonably short time, but aimed to still have a noticeable positive impact on gameplay.
 
@@ -121,7 +128,7 @@ They were active throughout the middle ages and dealt with Byzantines, Franks, S
 - Marco Polo (exploration bonus, maybe line of sight on ships as civ bonus)
 
 
-#### Boni
+#### Bonuses
 Team bonus: +2 line of sight on ships 
 
 Civ bonus: Relics also grant wood (as a bonus to their navy and to incentivise stealing relics)
