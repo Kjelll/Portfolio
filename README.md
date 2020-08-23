@@ -33,14 +33,14 @@ The full repository with code is found at:
 
 ### Flappybird 2.0
 Glitch style shader coding, general unity coding, like an eternally vertically looping world, and game design.
-
-<img src="FlappyBirdShader.png" alt="Flappy Bird Glitch World Shader" width="500"/> 
-
+ 
 Honorable mentions by the jury and an article in a newspaper (in german) 
 
 <img src="Newspaper.jpeg" alt="Newspaper" width="300"/> 
 
-Trailer: https://www.youtube.com/watch?v=cWZ3SMBPXlU
+Trailer: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cWZ3SMBPXlU?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On itch.io:
 

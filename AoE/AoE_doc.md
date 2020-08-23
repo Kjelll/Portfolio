@@ -10,7 +10,12 @@ As an exercise I created a quick wireframe sketch of the main in game UI.
 
 ## Ornamental Buildings
 A concept for buildings that serve no gameplay relevant purpose. Allowing players to showcase rewards they earned to others would decisively lift them above the developer-created visual mods that event rewards represent right now.
-Introducing the motivatonal social/community aspects of cosmetics that so many games use as their solefor financial income could greatly benefit the retention gained from the frequent event challenges taking place in AoE 2 DE.
+
+Introducing (as rewards) the social/community motivators of cosmetics that so many games sell as their main financial income could greatly improve the player retention gained from the frequent event challenges taking place in AoE 2 DE.
+
+### Concept
+The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way, but customisable with a number of different statues, fountains and more in the player profile.
+If only one statue building can be constructed 
 
 
 
