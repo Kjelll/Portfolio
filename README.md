@@ -23,7 +23,7 @@ An atmospheric maze runner game about a mysterious ice cave.
 
 Mysterious monster and xray shader coding, general unity coding and game design.
 
-Can be played by downloading the .zip and starting the EredEngrin.exe in the folder, or use the EredEngrin folder directly if the full repo is already downloaded. 
+Can be played by downloading [EredEngrin.zip](/EredEngrin.zip) and starting the EredEngrin.exe in the folder. 
 
  
 <img src="EredEngrin/EredEngrin4.jpg" alt="Ered Engrin" width="400"/>  
@@ -46,10 +46,21 @@ On itch.io:
 
  https://shytea.itch.io/flappybird2
 
-### Alien Dating Simulator
-Honorable mentions by jury
-Procedural generation of aliens, creating all of the UI necessary for the Dating sim, game design.
-Project unfortunately lost to the ages (and Unity Collab)
+### Galactinder
+Alien Dating Simulator
+Honorable mentions by jury 
+
+Procedural generation of 2D aliens, creating all of the UI necessary for the dating sim, game design. 
+The first part of the game about a dating app with procedural alien and name generation was designed and programmed by [Feli](https://twitter.com/Niodith) and me, with great art made by [Kris](https://twitter.com/kris_weinand).
+
+The second part, travelling to the date as a 2D spaceship minigame was made by two other games engineer students.
+
+
+Can be played by downloading [Galactinder.zip](/Galactinder.zip) and starting the AltGalactinderBuild.exe in the folder. 
+
+ 
+<img src="Galactinder/Galactinder4.png" alt="Galactinder" width="400"/>  
+
 
 ### Brainfuck Planet
 Third Place among 94 participants, topic: Depth

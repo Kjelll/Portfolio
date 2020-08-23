@@ -235,15 +235,15 @@ Cost suggestion: 100 wood 20 gold, higher cost than a house and at minimum a sma
 <img src="/AoE/espringal.png" alt="Espringal" width="300"/> 
 
 
-A ballista shooting siege unit that assembles like a trebuchet, the Springald or Espringal was a medieval version of the roman scorpion that could be used by Byzantine or European civs.
+A ballista shooting siege unit that assembles like a trebuchet, the Springald or Espringal was a medieval version of the roman scorpion with inward swinging arms that could be used by Byzantine or European civs.
  
 This ["springald catapult"](https://www.youtube.com/watch?v=vIinZrWERUE) version even looks like a trebuchet for bolts.
 
-<img src="/AoE/espringal2.png" alt="Espringal 2" width="300"/> 
+<img src="/AoE/espringal2.png" alt="Springal catapult" width="300"/> 
 
 Bad mobility as a tradeoff with higher range and more bonus damage to buildings than scorpion.
 
 Could also feature a less than 360 degree shooting angle after setting up, if that provides interesting gameplay, but that would require a lot more design work. 
 
-Since it is mentioned in De Re Militari, most fitting to Byzantium and other civs inheriting Roman military technology, like the Italians, Venice or Franks. https://en.wikipedia.org/wiki/De_re_militari
+Since it is mentioned in [De Re Militari](https://en.wikipedia.org/wiki/De_re_militari), most fitting to Byzantium and other civs inheriting Roman military technology, like the Italians, Venice or Franks. 
 
