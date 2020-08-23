@@ -1,4 +1,5 @@
- 
+Link back to [portfolio overview](/README.md).
+
 # Age of Empires Game Design: 
 Of course proper GDDs would be a collaboration of several game designers and updated over many iterations by a whole development team, but these snippets would be a first draft to start from, add and improve upon. 
  
@@ -57,6 +58,8 @@ Introducing (as rewards) the social/community motivators of cosmetics that so ma
 ### Concept
 The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way, but customisable with a number of different statues, fountains and more in the player profile.
 
+A decent size of base content could be quickly created by gray scaling all units and putting them on a pedestal to create a stone statue of each unit. The same could be repeated but in gold, to create a more rare (and tougher to obtain) version. Some AoE 1 units could be used aswell to create "ancient" statues.
+
 Issues: A part of the nostalgic playerbase absolutely hates how modern games have changed and especially cosmetics are often seen as the downfall of modern video games, therefore they should be kept clearly distinct from modern cosmetics. 
 They should stay free (only locked behind challenges) and away from the main gameplay (no unit skins), as those would be red lines to cross.
 The name cosmetics should also be avoided, hence the name "ornamental buildings". 
@@ -85,12 +88,13 @@ There is plenty of empty space in the main villager menu, even the top row still
 
 <img src="/AoE/OrnamentalBuildings/OrnamentalBuildings.png" alt="Ornamental Buildings" width="400"/> 
 
+Benefits: Adding an extra menu sets them apart from civil and military buildings in the other menus and makes misclick building less likely.
 
 Issues: A full menu for ornamental buildings alone would give them a more prominent position in the villager menu, which could also annoy the hardcore anti-cosmetic playerbase.
 The menu button could be moved from the top row to the bottom left to give it a more optional feel.
 
 ## Civ additions
-For more game design instead of history skip to [Venice](#Venice), the others are just civ choices based on history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
+For more game design instead of history skip to [Venice](#Venice), the others are just civ choices based on historicity, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
 
 Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented, or have some overlap with an already implemented one. 
 
@@ -210,7 +214,7 @@ Some more venetian unit could come from in depth research of venice land battles
 #### Healing Tent/Field Hospital
 Best on a civ that was famous for its medicine in some way, like Teutons (who got Herbal Medicine because of it). 
 
-Healing building/field hospital/"Lazarett". Like a hut/tent with 5-10 garrison space and 6-10x healing speed (Like herbal medicine), could also stack with herbal medicine, (additive to 12x, not multiplicative)
+Healing building/field hospital/"Lazarett". A hut/tent with 5-10 garrison space and 6-10x healing speed (Like herbal medicine), could also stack with herbal medicine, (additive to 12x, not multiplicative)
 
 Should be able to garrison cavalry, like castles, since healing other units is barely used by top players.
 
@@ -231,7 +235,7 @@ Cost suggestion: 100 wood 20 gold, higher cost than a house and at minimum a sma
 <img src="/AoE/espringal.png" alt="Espringal" width="300"/> 
 
 
-A ballista shooting siege unit that assembles like a trebuchet, "Springald" was a medieval version of the roman scorpion that could be used by a european civ.
+A ballista shooting siege unit that assembles like a trebuchet, the Springald or Espringal was a medieval version of the roman scorpion that could be used by Byzantine or European civs.
  
 This ["springald catapult"](https://www.youtube.com/watch?v=vIinZrWERUE) version even looks like a trebuchet for bolts.
 
