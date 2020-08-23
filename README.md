@@ -2,7 +2,7 @@
 Unity projects, links to my shadertoy profile, and what else I can think of putting here.
 
 ## Age of Empires Game Design:
- Some game design document examples featuring some small and large scale example ideas for Age of Empires 2 are listed [here](/AoE/AoE_doc.md)
+ Some game design document examples featuring some small change and civ expansion example ideas for Age of Empires 2 are listed [here](/AoE/AoE_doc.md). 
 
 
 
