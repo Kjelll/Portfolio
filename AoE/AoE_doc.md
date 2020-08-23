@@ -65,28 +65,29 @@ That way any backlash could likely be kept below the level of Autoscout.
 
 #### Variation 1: Single statue
 Only one type of statue can be built, only one item has to be added to the villager build menu (one empty space in civil building menu)
-The Visual can only be changed between games, at the start of the game each players statue sprite is initialised as their currently in the profile selected statue.
+The statue visual can only be changed between games, at the start of the game each players statue sprite is initialised as their currently in the profile selected statue.
 
-<img src="/AoE/OrnamentalBuildings/BuildingIntegratedCursor.jpg" alt="Integrated in the civil building menu" width="300"/> 
+<img src="/AoE/OrnamentalBuildings/IntegratedCivilBuildingMenu.jpg" alt="Integrated in the civil building menu" width="300"/> 
 
-Issues: "Empty" building menu space conflicts with the Feitoria as Portugese, misclicks between statues and other hotkeys closeby could annoy players.
+Issues: "Empty" building menu space conflicts with the Feitoria as Portugese, misclicks between statue and similar hotkeys could annoy players.
 
 
 #### Variation 2: Multiple Ornamental Buildings
 Each player can select up to 13 different skins at the same time, which are then placed in a new villager build menu, which could be located between the repair and garrison options of the "main" villager menu.
+
 This would allow more roleplay- or casual- oriented players to decorate their city with a number of statues, fountains and other trinkets to make their empire pretty to look at.
 
 It would also make it more relevant to own more than one statue for Achiever player types.
 
-<img src="/AoE/OrnamentalBuildings/OrnamentalMenu1.png" alt="Ornamental Building Menu" width="400"/> 
+<img src="/AoE/OrnamentalBuildings/OrnamentalBuildingMenu.png" alt="Ornamental Building Menu" width="400"/> 
 
-There is plenty of space in the main villager menu, which can then open an Ornamental Building Menu.
+There is plenty of empty space in the main villager menu, even the top row still has a slot for one button, which can then open an Ornamental Building Menu.
 
-<img src="/AoE/OrnamentalBuildings/OrnamentalMenu2.png" alt="Ornamental Buildings" width="400"/> 
+<img src="/AoE/OrnamentalBuildings/OrnamentalBuildings.png" alt="Ornamental Buildings" width="400"/> 
 
 
 Issues: A full menu for ornamental buildings alone would give them a more prominent position in the villager menu, which could also annoy the hardcore anti-cosmetic playerbase.
-
+The menu button could be moved from the top row to the bottom left to give it a more optional feel.
 
 ## Civ additions
 For more game design instead of history skip to [Venice](#Venice), the others are just civ choices based on history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
