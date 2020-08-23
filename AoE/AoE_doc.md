@@ -8,16 +8,6 @@ As an exercise I created a quick wireframe sketch of the main in game UI.
 <img src="/AoE/Aoe2Wireframe.png" alt="UI Wireframe" width="800"/> 
 
 
-## Ornamental Buildings
-A concept for buildings that serve no gameplay relevant purpose. Allowing players to showcase rewards they earned to others would decisively lift them above the developer-created visual mods that event rewards represent right now.
-
-Introducing (as rewards) the social/community motivators of cosmetics that so many games sell as their main financial income could greatly improve the player retention gained from the frequent event challenges taking place in AoE 2 DE.
-
-### Concept
-The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way, but customisable with a number of different statues, fountains and more in the player profile.
-If only one statue building can be constructed 
-
-
 
 ## Small tweaks
 Changes implementable in a reasonably short time, but aimed to still have a noticeable positive impact on gameplay.
@@ -56,6 +46,47 @@ Desired impact: Give the player a feeling of power while commanding a group of k
 
 Impacted gameplay: Audio only
  
+
+
+
+## Ornamental Buildings
+A concept for buildings that serve no gameplay relevant purpose, but have customizable visuals shared across clients. Allowing players to showcase event rewards they earned to others would decisively lift them above the developer-created visual mods that event rewards represent right now.
+
+Introducing (as rewards) the social/community motivators of cosmetics that so many games sell as their main financial income could greatly improve the player retention gained from the frequent event challenges taking place in AoE 2 DE.
+
+### Concept
+The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way, but customisable with a number of different statues, fountains and more in the player profile.
+
+Issues: A part of the nostalgic playerbase absolutely hates how modern games have changed and especially cosmetics are often seen as the downfall of modern video games, therefore they should be kept clearly distinct from modern cosmetics. 
+They should stay free (only locked behind challenges) and away from the main gameplay (no unit skins), as those would be red lines to cross.
+The name cosmetics should also be avoided, hence the name "ornamental buildings". 
+That way any backlash could likely be kept below the level of Autoscout.
+
+
+#### Variation 1: Single statue
+Only one type of statue can be built, only one item has to be added to the villager build menu (one empty space in civil building menu)
+The Visual can only be changed between games, at the start of the game each players statue sprite is initialised as their currently in the profile selected statue.
+
+<img src="/AoE/OrnamentalBuildings/BuildingIntegratedCursor.jpg" alt="Integrated in the civil building menu" width="300"/> 
+
+Issues: "Empty" building menu space conflicts with the Feitoria as Portugese, misclicks between statues and other hotkeys closeby could annoy players.
+
+
+#### Variation 2: Multiple Ornamental Buildings
+Each player can select up to 13 different skins at the same time, which are then placed in a new villager build menu, which could be located between the repair and garrison options of the "main" villager menu.
+This would allow more roleplay- or casual- oriented players to decorate their city with a number of statues, fountains and other trinkets to make their empire pretty to look at.
+
+It would also make it more relevant to own more than one statue for Achiever player types.
+
+<img src="/AoE/OrnamentalBuildings/OrnamentalMenu1.png" alt="Ornamental Building Menu" width="400"/> 
+
+There is plenty of space in the main villager menu, which can then open an Ornamental Building Menu.
+
+<img src="/AoE/OrnamentalBuildings/OrnamentalMenu2.png" alt="Ornamental Buildings" width="400"/> 
+
+
+Issues: A full menu for ornamental buildings alone would give them a more prominent position in the villager menu, which could also annoy the hardcore anti-cosmetic playerbase.
+
 
 ## Civ additions
 For more game design instead of history skip to [Venice](#Venice), the others are just civ choices based on history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
