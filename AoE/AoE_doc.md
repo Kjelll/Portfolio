@@ -44,7 +44,7 @@ Impacted gameplay: Audiovisual
 ## Civ additions
 Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented. 
 
-I specifically did game design for a Venice Civ, the others are just history.
+I specifically did game design for a Venice Civ, the others are just history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
 
 
 ### Nordic Migration
@@ -113,12 +113,12 @@ Civ bonus: Players trading with a Venetian market also grant Venice a (small) po
 
 - Devotion of Verona could be a unique tech, Istrian and Dalmation cities swearing allegiance to Venice happened again in 1000   https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice 
 
-- Marriage of the Sea could be another unique tech (for some maritime bonus, if possible something relating to "the sea may be calm and quiet")
+- Marriage of the Sea (for some maritime bonus, if possible something relating to "the sea may be calm and quiet") https://en.wikipedia.org/wiki/Marriage_of_the_Sea_ceremony
 
 
 #### Military:
 
--Strong naval presence, they basically won their empire on water, then lost it on land. Should have a strong ship bonus.
+- Strong naval presence, they basically won their empire on water, then lost it on land. Should have a strong ship bonus.
 
 - Crusaders in the fourth crusade were transported by Venice, in return they sieged Zara and later Constantinople. So they should have a decent knight line, at least cavalier, even though only some of the knights sieging Constantinople were Venetian.
 
@@ -148,4 +148,6 @@ Some more venetian unit could come from in depth research of venice land battles
 - Normany/Normans
 
 - Burgundy
+
+- potentially some group out of the germanic stew of dukes and kingdoms, Bavaria, Swabia, old swiss confederacy, Saxons, Flanders/Flemish, etc.
 
