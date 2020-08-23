@@ -5,7 +5,7 @@ Of course proper GDDs would be a collaboration of several game designers and upd
 ## UI Wireframe 
 As an exercise I created a quick wireframe sketch of the main in game UI.
 
-<img src="/AoE/Aoe2Wireframe.png" alt="UI Wireframe" width="600"/> 
+<img src="/AoE/Aoe2Wireframe.png" alt="UI Wireframe" width="800"/> 
 
 ## Small tweaks
 Changes implementable in a reasonably short time, but aimed to still have a noticeable positive impact on gameplay.
@@ -33,13 +33,12 @@ Right clicking on something in the global unit queue directly cancels it, instea
 Desired impact: Misclicking militia while shift spamming halbs doesnt force the player to slowly cycle through his barracks to cancel each individually
 
 Issues: Research is excluded to avoid game losing misclicks (cancelling Imp or Paladin)
-
 <img src="/AoE/SumRes/Issue.jpg" alt="Issue" width="200"/> 
 
 Impacted gameplay: Quality of Life change, Military, Imp/Post Imp
 
-### Cavalry charge sound effect when a big group of cavalry attack moves towards a big group of enemies
-Similar to the charge sound effect already implemented in AoM, but more sparsely triggered and only some slight horse gallop sound to not disturb important sound clues or make the player weary of triggering it every minute.
+### Cavalry charge sound effect when a big group of cavalry moves towards a big group of enemies
+Similar to the charge sound effect already implemented in AoM, but more sparsely triggered and only some slight horse gallop sound to not disturb important sound cues.
 
 Desired impact: Give the player a feeling of power while commanding a group of knights, without disturbing the rest of their gameplay experience
 
@@ -47,9 +46,9 @@ Impacted gameplay: Audiovisual
  
 
 ## Civ additions
+For more game design instead of history skip to [Venice](#Venice), the others are just civ choices based on history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
 Some possible civ choices I found while researching european groups and cultures. Since 20 AoE 2 civilizations are already actors in the european/mediterranean region, all the most famous groups active in the middle ages are obviously already implemented, or have some overlap with an already implemented one. 
 
-I specifically did game design examples for Venice at the bottom, the others are just civ choices based on history, grouped to fit into a theme that makes sense and is not totally unknown in pop culture.
 
 
 
@@ -96,7 +95,7 @@ If we want the civs to have met in the same region in a relevant manner, we have
 
 If we want a fourth civ in the area, replacing Iceland with Venice could be a (non-viking) choice.
 
-### Republic of Venice
+### Republic of Venice <a name="Venice"></a>
 Most likely founded by people fleeing the germanic and hun invasion and raids, part of the Byzantine Empire, but defending themselves against the Lombards as the Duchy of Venetia.
 
 Gained power through trade, politics and maritime warfare almost exclusively.
