@@ -79,9 +79,9 @@ They would likely be less known in pop culture than the others, but as we can se
 https://en.wikipedia.org/wiki/File:Old_norse,_ca_900.PNG
 
 #### Geographical alternative
-If we want the civs to have met in the same region in a relevant manner, we have Northern Italy for the Normans, Lombards and Varangians (as part of the byzantine empire). 
+If we want the civs to have met in the same region in a relevant manner, we have Northern Italy for the Normans, Lombards and Varangians (as part of the Byzantine Empire). 
 
-If we want a fourth civ in the area, Venice could be a (non-viking) choice.
+If we want a fourth civ in the area, replacing Iceland with Venice could be a (non-viking) choice.
 
 #### Republic of Venice
 Most likely founded by people fleeing the germanic and hun invasion and raids, part of the Byzantine Empire, but defending themselves against the Lombards as the Duchy of Venetia.
@@ -104,7 +104,7 @@ They were active throughout the middle ages and dealt with Byzantines, Franks, S
 
 -Marco Polo (exploration bonus, maybe line of sight on ships as civ bonus)
 
-##### Unique Techs:
+##### Unique Tech Inspirations:
 
 -Devotion of Verona could be a unique tech, Istrian and Dalmation cities swearing allegiance to Venice happened again in 1000   https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice 
 
@@ -127,18 +127,21 @@ Not much else on land until the 15. century, where they only had condotierrri ar
 
 ##### Unique Units
 
-Stradioti, light cavalry mercenaries (1400-1800), represented as a fast cavalry unit that only costs gold. Their imperial upgrade allows them to carry relics. https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy)
+-Stradioti, light cavalry mercenaries (1400-1800), represented as a fast cavalry unit (some mix between hussar and paladin) that costs only gold. Their imperial upgrade also allows them to carry relics. https://en.wikipedia.org/wiki/Stratioti#Republic_of_Venice_and_Kingdom_of_Naples_(Italy)
 
 Some more venetian unit could come from in depth research of venice land battles, since Stradioti were not from Venice and not exclusively used by Venice, the UU choice is far from perfect.
 
-Condotierri, not "unique" since the main Italians already have them but clearly should be in the venetian arsenal.
+-Condotierri, not "unique" since the main Italians already have them but clearly should be in the venetian arsenal.
 
-Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
-
-
+-Bucentaur, a strong "boss battle" unique ship similar to the turtle ship.  https://en.wikipedia.org/wiki/Bucentaur
 
 
 
+##### Boni
+Team bonus: +2 line of sight on ships 
+Civ bonus: Relics also grant wood (as a bonus to their navy aswell)
+
+Civ bonus: Players trading with a Venetian market also grant Venice a (small) portion of their earnings
 
 
 
