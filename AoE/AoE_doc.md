@@ -188,7 +188,7 @@ A ballista shooting siege unit that assembles like a trebuchet, "Springald" was 
  
 This ["springald catapult" version](https://www.youtube.com/watch?v=vIinZrWERUE) even looks like a trebuchet for bolts.
 
-<img src="/AoE/espringal2.png" alt="Espringal 2" width="500"/> 
+<img src="/AoE/espringal2.png" alt="Espringal 2" width="300"/> 
 
 It could also feature a less than 360 degree shooting angle after setting up, if that provides interesting gameplay, but that would require a lot more design work. 
 
