@@ -38,9 +38,9 @@ Honorable mentions by the jury and an article in a newspaper (in german)
 
 <img src="Newspaper.jpeg" alt="Newspaper" width="300"/> 
 
-Trailer: 
+[Trailer:](https://www.youtube.com/watch?v=cWZ3SMBPXlU)
 
-[![Flappybird 2.0 thumnail](FlappyThumbnail.jpg)](https://www.youtube.com/watch?v=cWZ3SMBPXlU)
+[<img src="FlappyThumbnail.jpg" alt="FlappyThumbnail" width="300"/>](https://www.youtube.com/watch?v=cWZ3SMBPXlU)
 
 On itch.io:
 
@@ -57,7 +57,7 @@ The second part, travelling to the date as a 2D spaceship minigame was made by t
 
 <img src="Galactinder/Galactinder4.png" alt="Galactinder" width="400"/>  
 
-The name generation I hacked together is a great example of how a little can achieve a lot.
+The procedural name generation with 5400 permutations I hacked together is a great example of how a little can achieve a lot.
 
 <img src="Galactinder/Galactinder2.png" alt="Galactinder" width="400"/>  
 
@@ -69,7 +69,10 @@ Can be played by downloading [Galactinder.zip](/Galactinder.zip) and starting th
 ### Brainfuck Planet
 Third Place among 94 participants, topic: Depth
 
+<img src="BrainPlanet/BrainFuckPlanet1.png" alt="BrainFuckPlanet Screenshot" width="400"/>  
+
 Some shader coding, general unity coding, game and level design.
+
  https://github.com/SpicedPigeon/BrainfuckPlanet (requires 3+ year old Unity 5.6)
 
 
