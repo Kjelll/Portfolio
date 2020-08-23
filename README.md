@@ -3,7 +3,12 @@ Unity projects, link to my [shadertoy profile](https://www.shadertoy.com/user/Ja
 
 
 ## Age of Empires Game Design:
- Some game design document examples featuring some small change and civ expansion example ideas for Age of Empires 2 are listed [here](/AoE/AoE_doc.md). 
+
+<img src="AoeHeader.jpg" alt="Aoe2 DE Header" width="400"/>  
+
+
+
+A collection of game design document examples featuring some small change and civ expansion example ideas for Age of Empires 2 are listed [here](/AoE/AoE_doc.md). 
 
 
 
@@ -29,7 +34,7 @@ The full repository with code is found at:
 ### Flappybird 2.0
 Glitch style shader coding, general unity coding, like an eternally vertically looping world, and game design.
 
-<img src="FlappyBirdShader.png" alt="Flappy Bird Glitch World Shader" width="300"/> 
+<img src="FlappyBirdShader.png" alt="Flappy Bird Glitch World Shader" width="500"/> 
 
 Honorable mentions by the jury and an article in a newspaper (in german) 
 
