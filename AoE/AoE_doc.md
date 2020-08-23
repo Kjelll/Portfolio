@@ -22,7 +22,7 @@ Here is a quick example case:
 
 Desired impact: Players no longer need to individually cycle through their villagers when they need to reach a specific amount of food asap (Villager, Feudal research, Castle research). 
 		
-Here would be a possible UI example, where the resource is shown like a final entry in the list of selected units.
+Here would be a possible UI example, where the resource is shown as the final entry in the list of selected units.
 
 <img src="/AoE/SumRes/Possible_solution.jpg" alt="possible_solution" width="600"/> 
 

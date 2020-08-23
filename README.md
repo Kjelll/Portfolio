@@ -47,17 +47,17 @@ On itch.io:
  https://shytea.itch.io/flappybird2
 
 ### Galactinder
-Alien Dating Simulator
-Honorable mentions by jury 
+Alien Dating Simulator with an honorable mention by the gamejam jury 
 
-Procedural generation of 2D aliens, creating all of the UI necessary for the dating sim, game design. 
-The first part of the game about a dating app with procedural aliens designed and programmed by [Feli](https://twitter.com/Niodith), Leo and me, with great art made by [Kris](https://twitter.com/kris_weinand).
+Procedural generation of 2D aliens (up to 36000), creating all of the UI necessary for the dating sim, game design. 
+
+The first part of the game about a dating app with procedural aliens was designed and programmed by [Feli](https://twitter.com/Niodith), Leo and me, with great art made by [Kris](https://twitter.com/kris_weinand).
 
 The second part, travelling to the date as a 2D spaceship minigame was made by two other games engineer students.
 
 <img src="Galactinder/Galactinder4.png" alt="Galactinder" width="400"/>  
 
-The procedural name generation with 5400 permutations I hacked together is a great example of how a little can achieve a lot.
+The procedural name generation with 5400 permutations I quickly hacked together is a great example of how a little can achieve a lot.
 
 <img src="Galactinder/Galactinder2.png" alt="Galactinder" width="400"/>  
 
