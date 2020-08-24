@@ -60,6 +60,10 @@ The easiest implementation would be a granite block that is mechanically worse t
 
 A decent size of base content could be quickly created by gray scaling all units and putting them on a pedestal to create a stone statue of each unit. The same could be repeated but in gold, to create a more rare (and tougher to obtain) version. Some AoE 1 units could be used aswell to create "ancient" statues.
 
+
+<img src="/AoE/OrnamentalBuildings/GoldenPetardStatue.png" alt="Golden petard" width="500"/> 
+
+
 Issues: A part of the nostalgic playerbase absolutely hates how modern games have changed and especially cosmetics are often seen as the downfall of modern video games, therefore they should be kept clearly distinct from modern cosmetics. 
 They should stay free (only locked behind challenges) and away from the main gameplay (no unit skins), as those would be red lines to cross.
 The name cosmetics should also be avoided, hence the name "ornamental buildings". 
