@@ -40,6 +40,13 @@ Issues: Research must be excluded to avoid game losing misclicks (cancelling Imp
 
 Impacted gameplay: Quality of Life change, Military, Imp/Post Imp
 
+### Make gates lockable before they finish
+Quick improvement to stop villagers from randomly pathing through a newly built gate after trapping units with them or other quickwall plays
+
+Desired impact: Preserve good plays, instead of letting them randomly fail sometimes depending on vill pathing 
+
+Impacted gameplay: Quality of Life change, Military, Feudal/Castle
+
 ### Cavalry charge sound effect when a big group of cavalry moves towards a big group of enemies
 Similar to the charge sound effect already implemented in AoM, but more sparsely triggered and only some slight horse gallop sound to not disturb important sound cues.
 
@@ -56,13 +63,11 @@ A concept for buildings that serve no gameplay relevant purpose, but have custom
 Introducing (as rewards) the social/community motivators of cosmetics that so many games sell as their main financial income could greatly improve the player retention gained from the frequent event challenges taking place in AoE 2 DE.
 
 ### Concept
-The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way, but customisable with a number of different statues, fountains and more in the player profile.
+The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way (cost and HP), but customisable with a number of different statues, fountains and more in the player profile.
 
 A decent size of base content could be quickly created by gray scaling all units and putting them on a pedestal to create a stone statue of each unit. The same could be repeated but in gold, to create a more rare (and tougher to obtain) version. Some AoE 1 units could be used aswell to create "ancient" statues.
 
-
 <img src="/AoE/OrnamentalBuildings/GoldenPetardStatue.png" alt="Golden petard" width="500"/> 
-
 
 Issues: A part of the nostalgic playerbase absolutely hates how modern games have changed and especially cosmetics are often seen as the downfall of modern video games, therefore they should be kept clearly distinct from modern cosmetics. 
 They should stay free (only locked behind challenges) and away from the main gameplay (no unit skins), as those would be red lines to cross.
