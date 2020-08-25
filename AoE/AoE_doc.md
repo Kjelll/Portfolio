@@ -10,7 +10,7 @@ As an exercise I created a quick wireframe sketch of the main in game UI.
 
 
 
-## Small tweaks
+## Small improvements
 Changes implementable in a reasonably short time, but aimed to still have a noticeable positive impact on gameplay.
 
 ### Show resource total for villager groups
@@ -40,10 +40,10 @@ Issues: Research must be excluded to avoid game losing misclicks (cancelling Imp
 
 Impacted gameplay: Quality of Life change, Military, Imp/Post Imp
 
-### Make gates lockable before they finish
-Quick improvement to stop villagers from randomly pathing through a newly built gate after trapping units with them or other quickwall plays
+### Make gates lockable while still being constructed
+Quick improvement to stop villagers from randomly pathing through a newly built gate in clutch situations
 
-Desired impact: Preserve good plays, instead of letting them randomly fail sometimes depending on vill pathing 
+Desired impact: Preserve good plays instead of letting them randomly fail depending on vill pathing 
 
 Impacted gameplay: Quality of Life change, Military, Feudal/Castle
 
