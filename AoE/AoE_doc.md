@@ -188,9 +188,9 @@ Civ bonus: Players trading with a Venetian market also grant Venice a (small) po
 
 #### Unique Tech Inspirations:
 
-- [Devotion of Verona](https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice) should grant some buff regarding settlements/town centers. Istrian and Dalmation cities also swore allegiance to Venice again in 1000    
+- [Devotion of Verona](https://en.wikipedia.org/wiki/Devotion_of_Verona_to_Venice) should grant some buff regarding settlements/town centers, like garrison space or each town center granting 5(?) instant villagers (could create an interesting castle boom strategy). Istrian and Dalmatian cities also swore allegiance to Venice again in 1000    
 
-- [Marriage of the Sea](https://en.wikipedia.org/wiki/Marriage_of_the_Sea_ceremony) for some maritime bonus, if possible something relating to "the sea may be calm and quiet"
+- [Marriage of the Sea](https://en.wikipedia.org/wiki/Marriage_of_the_Sea_ceremony) for some maritime bonus, if possible something relating to "the sea may be calm and quiet", some bonus speed maybe.
 
 
 #### Military:
