@@ -1,6 +1,4 @@
-# Portfolio
-Unity projects, link to my [shadertoy profile](https://www.shadertoy.com/user/Jarazz), and what else I remember to put here. 
-
+# Portfolio 
 
 ## [Age of Empires Game Design](/AoE/AoE_doc.md):
 
@@ -12,6 +10,17 @@ A collection of game design document examples featuring some small change and ci
 
 
 
+
+## Shader:
+Link to my [shadertoy profile](https://www.shadertoy.com/user/Jarazz)
+
+<img src="ShaderShowcase.jpg" alt="ShaderShowcase" width="400"/> 
+
+I also made a showcase project for my Unity shaders, in [ShaderShowcase.zip](/ShaderShowcase.zip) with the ShaderShowcase.exe in the folder. 
+
+Most of them are interactive with UI to tweak the most interesting variables.
+
+<img src="ShaderShowcase2.jpg" alt="ShaderShowcase" width="400"/> 
 
 
 ## Game jam projects:
