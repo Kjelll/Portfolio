@@ -65,7 +65,7 @@ Introducing (as rewards) the social/community motivators of cosmetics that so ma
 ### Concept
 The easiest implementation would be a granite block that is mechanically worse than a palisade wall in every way (cost and HP), but customisable with a number of different statues, fountains and more in the player profile.
 
-A decent size of base content could be quickly created by gray scaling all units and putting them on a pedestal to create a stone statue of each unit. The same could be repeated but in gold, to create a more rare (and tougher to obtain) version. Some AoE 1 units could be used aswell to create "ancient" statues.
+A decent size of base content could be quickly created by gray scaling all units and putting them on a pedestal to create a stone statue of each unit. The same could be repeated but in gold, to create a more rare (and tougher to obtain) version. Some AoE 1 units could be used aswell to create "ancient" statues, but unlike the current mods and profile pictures, everything must fit into the medieval world thematically, since the enemy can decide for himself if beachball projectiles on trebuchets break his immersion.
 
 <img src="/AoE/OrnamentalBuildings/GoldenPetardStatue.png" alt="Golden petard" width="500"/> 
 
